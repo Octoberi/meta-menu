@@ -1,4 +1,4 @@
 # meta-menu
-create Little Lemen Menu - coursea test (meta)
+create Little Lemen Menu - Meta coursea test (meta)
 
 https://octoberi.github.io/meta-menu/
